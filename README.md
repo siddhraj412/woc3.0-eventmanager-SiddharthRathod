@@ -1,1 +1,3 @@
-# woc3.0-eventmanager-SiddharthRathod
+# Event Manager Web app
+
+first project
